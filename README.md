@@ -1,7 +1,6 @@
 # Taller Ejecutivo: La Responsabilidad en el Uso de Casos de Uso de IA
 
-**Facilitador:** John J Bocachica (`jbocachica@iwco.co` | `+57 310 689 0766`)  
-**Modalidad:** Laboratorio Práctico con Inteligencia Artificial Generativa (2 Sesiones · 3 Horas Totales)  
+**Modalidad:** Laboratorio Práctico con Inteligencia Artificial Generativa (2 Sesiones)  
 **Audiencia:** Alta Dirección (C-Level, VPs, Directores y Líderes de Comité)
 
 ---
@@ -71,7 +70,3 @@ Antes de abrir cualquier carpeta o ejecutar un prompt en su plataforma de IA:
 * **Mentalidad de Comité:** La IA aportará velocidad de simulación y redacción, pero el criterio financiero, ético y de negocio lo define exclusivamente cada directivo.
 
 ---
-
-**Contacto del Facilitador:**  
-**John J Bocachica**  
-📧 `jbocachica@iwco.co` | 📱 `+57 310 689 0766`
